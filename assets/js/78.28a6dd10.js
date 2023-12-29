@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[78],{396:function(t,n,s){"use strict";s.r(n);var e=s(7),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("生命如此短暂，满打满算活到85岁，三万多天而已，现在已经二十多岁，也算奔三了，顺利的话还有两万多天吧。")])])}),[],!1,null,null,null);n.default=o.exports}}]);
